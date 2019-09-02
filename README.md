@@ -16,5 +16,7 @@ Gets leaderboard from bigbuckhd and edits a Reddit submission with the results (
 
 ### Info
 
-```target_submission``` in conf.ini is the post id you want to update
+```target_submission``` in conf.ini is the post id you want to update  
 ```schedule_hours``` in conf.ini determines when the script runs (every n hours)
+
+DEMO: https://old.reddit.com/r/impshums/comments/cypgku/leaderboard/
